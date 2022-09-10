@@ -1,0 +1,9 @@
+*~
+*.swp
+*.log
+
+/docs/
+
+*.pyc
+
+!.gitignore

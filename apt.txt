@@ -1,0 +1,4 @@
+git make curl rsync
+code meld doxygen clang-format
+python3 python3-pip
+g++ gdb flex bison cmake
